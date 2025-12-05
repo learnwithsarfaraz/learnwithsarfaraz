@@ -10,9 +10,9 @@
                 <p>🌱 I’m currently learning <strong>Generative AI, Streamlit, Computer Vision, Stable
                         Diffusion</strong></p>
                 <p>👨‍💻 All of my projects are available at <a
-                        href="https://github.com/sarfarazit">https://github.com/sarfarazit</a></p>
+                        href="https://github.com/LearnWithSarfaraz">https://github.com/sarfarazit</a></p>
                 <p>📝 I regularly post learning videos on <a
-                        href="https://www.youtube.com/@sarfarazit" >https://www.youtube.com/@sarfarazit</a></p>
+                        href="https://www.youtube.com/@LearnWithSarfaraz" >https://www.youtube.com/@sarfarazit</a></p>
                 <p>💬 Ask me about <strong>Azure, MuleSoft, Azure OpenAI, Azure Integrations</strong></p>
                 <h2>📚 Portfolio </h2>
                     <p><a href="https://toolsetapp.streamlit.app/">Prompt Collector App & More</a></p>
