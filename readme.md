@@ -10,9 +10,9 @@
                 <p>🌱 I’m currently learning <strong>Generative AI, Streamlit, Computer Vision, Stable
                         Diffusion</strong></p>
                 <p>👨‍💻 All of my projects are available at <a
-                        href="https://github.com/LearnWithSarfaraz">https://github.com/LearnWithSarfaraz</a></p>
+                        href="https://github.com/LessonsWithSarfaraz">https://github.com/LessonsWithSarfaraz</a></p>
                 <p>📝 I regularly post learning videos on <a
-                        href="https://www.youtube.com/@LearnWithSarfaraz" >https://www.youtube.com/@LearnWithSarfaraz</a></p>
+                        href="https://www.youtube.com/@LessonsWithSarfaraz" >https://www.youtube.com/@LessonsWithSarfaraz</a></p>
                 <p>💬 Ask me about <strong>Azure, MuleSoft, Azure OpenAI, Azure Integrations</strong></p>
                 <h2>📚 Portfolio </h2>
                     <p><a href="https://toolsetapp.streamlit.app/">Prompt Collector App & More</a></p>
@@ -38,7 +38,7 @@
                     <a href="https://sarfarazit.wordpress.com" target="_blank">🌐 Blog</a> | 
                     <a href="https://whatsapp.com/channel/0029Vag09xYJP20yz2wkN61X" target="_blank">📱 WhatsApp</a> | 
                     <a href="https://www.linkedin.com/in/sarfarazit08/" target="_blank">🧑🏽‍🔬 LinkedIn</a> | 
-                    <a href="https://www.youtube.com/@LearnWithSarfaraz" target="_blank">▶️ YouTube</a> | 
+                    <a href="https://www.youtube.com/@LessonsWithSarfaraz" target="_blank">▶️ YouTube</a> | 
                     <a href="https://learn.microsoft.com/en-us/users/sarfarazit" target="_blank">🪟 Microsoft </a> |
                     <a href="mailto:sarfarazit@gmail.com">📧 Gmail</a> <br>
                     <a href="https://www.instagram.com/sarfarazit/" target="_blank">📷 Instagram</a> | 
